@@ -5,6 +5,8 @@ Prosjekt INF1510, vår 2014
 I tillegg til denne koden ble dette biblioteket brukt til e-papir-shieldet:
 https://github.com/Seeed-Studio/Small_ePaper_Shield
 (Her rettet vi også en feil som gjorde at skjermen ikke fjernet hele det forrige bildet i portrett-orientering)
+Til processing-programmet ble dette biblioteket brukt:
+http://www.sojamo.de/libraries/controlP5/
 
 ###Deltagere
 - Stian Kongsvik (stiako)
